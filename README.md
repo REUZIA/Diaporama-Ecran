@@ -9,3 +9,6 @@ Installation :
 
 Une fois que tout est installée, il ne faudra pas oublier de se connecter a Trello pour que cela fonctionne
 
+
+To Do:
+- Ajout du règlement intérieur, donc il faut mettre le réglèment intérieur en ligne (de préférence sur le site air-esiea.org
