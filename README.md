@@ -11,5 +11,5 @@ Une fois que tout est installée, il ne faudra pas oublier de se connecter a Tre
 
 
 To Do:
-- Ajout du règlement intérieur, donc il faut mettre le réglèment intérieur en ligne (faire un test sur one-drive)
 - Le système est très lent est-ce un problème de raspi ? Y a-t-il un autre code plus ergonomique
+- Sécuriser la connexion au système (gmail probablement et compte trello ext)
